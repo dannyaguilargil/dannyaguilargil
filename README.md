@@ -1,4 +1,4 @@
-<h1>Hola mundo 👋, Soy Danny Aguilar </h1>
+<h1>Hola mundo 👋, Soy Danny Aguilar / d4n7.dev © / dannyhub.com</h1>
 <p>Ing de sistemas y gestor de proyectos, Apasionado de las nuevas tecnologías, uso de contenedores y administración en la nube.</p>
 <h2>🚀 Algunas de las tecnologias!</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
