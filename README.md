@@ -1,7 +1,7 @@
 # 🏴‍☠️ root@d4n7:~# whoami
 
 **Danny Aguilar**
-Pentester | Red Team | Offensive Security
+Pentester | Developer
 
 ---
 
