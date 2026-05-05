@@ -20,20 +20,6 @@ Pentester | Red Team | Offensive Security
 
 ---
 
-## 🧠 about_me()
-
-Ingeniero de sistemas enfocado en **seguridad ofensiva**.
-Me especializo en encontrar lo que otros no ven: vulnerabilidades en aplicaciones, infraestructuras y servicios.
-
-```bash
-while(alive){
-    learn();
-    hack();
-    secure();
-}
-```
-
----
 
 ## ⚔️ skills --offensive
 
